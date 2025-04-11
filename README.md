@@ -35,11 +35,15 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ramvish108&theme=dark&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ramvish108&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🐍 Snake AI Bot
 ![Snake animation](https://github.com/Ramvish108/Ramvish108/blob/output/github-contribution-grid-snake.svg)
 
 ---
+<img src="https://activity-graph.herokuapp.com/graph?username=Ramvish108&theme=redical" />
+
 
 ### 🤖 AI Pulse
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
