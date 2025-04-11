@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=435&lines=System+Online...;Loading+Ram+Vishwakarma...;Coder+%7C+ML+%7C+IoT+%7C+Hacker+Vibes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=435&lines=System+Online...;Loading+Ram+Vishwakarma...;Coder+%7C+ML+%7C+IoT" alt="Typing SVG" />
 
 
 <h1 align="center">Hi 👋, I'm Ram Vishwakarma</h1>
