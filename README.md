@@ -36,15 +36,10 @@
 
 ---
 
-### 🚀 Featured Projects
-> _(You’ve already pinned these — nice! Just make sure each repo has a cool README and maybe a screenshot or GIF preview inside.)_
-
----
-
 ### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com)  
-_← Drop your actual LinkedIn link above_
+_
 
 ---
 
-Made with ❤️ by Ramvish108
+❤️ by Ramvish108
