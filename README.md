@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/iIgOEZTJLxb9j2rs9j/giphy.gif" width="300" />
+
 
 - 🔭 I’m currently working on **a Django-based Online Voting System**
 - 🌱 I’m exploring **machine learning with Scikit-learn** and **IoT projects using Arduino**
