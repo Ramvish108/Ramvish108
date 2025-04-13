@@ -9,8 +9,8 @@
 
 
 - 🔭 I’m currently working on **a Django-based Online Voting System**
-- 🌱 I’m exploring **machine learning with Scikit-learn** and **IoT projects using Arduino**
-- 💬 Ask me about **Java, MySQL, Arduino circuits, or Python ML tools**
+- 🌱 I’m exploring **machine learning with Scikit-learn**, **IoT projects using Arduino**, and **desktop applications in Java like Ludo Game and Student Management System**
+- 💬 Ask me about **Java, C, C++, MySQL, Arduino circuits, or Python ML tools**
 - 📫 Reach me at: **ramvish108@gmail.com**
 - ⚡ Fun fact: I can debug both **code and hardware circuits** at the same time 🤓
 
@@ -18,6 +18,8 @@
 
 ### 🛠️ Tech Arsenal
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-B22222?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-8B0000?style=for-the-badge&logo=arduino&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-990000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-B22222?style=for-the-badge&logo=scikit-learn&logoColor=white)
