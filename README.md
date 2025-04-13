@@ -53,7 +53,9 @@
 ---
 
 ### 🕶️ Contact The Coder
+[![Email](https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramvish108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darkred?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c_for_coding_001?igsh=NXk1cGNoMW9mcm95)
 
 ---
 
