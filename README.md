@@ -23,6 +23,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-8B0000?style=for-the-badge&logo=arduino&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-990000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-B22222?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-8B0000?style=for-the-badge&logo=java&logoColor=white)
+![Java AWT](https://img.shields.io/badge/Java_AWT-B22222?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-990000?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
