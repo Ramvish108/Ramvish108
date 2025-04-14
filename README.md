@@ -26,6 +26,12 @@
 ![Java Swing](https://img.shields.io/badge/Java_Swing-8B0000?style=for-the-badge&logo=java&logoColor=white)
 ![Java AWT](https://img.shields.io/badge/Java_AWT-B22222?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-990000?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8B0000?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-B22222?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-990000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DC143C?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
