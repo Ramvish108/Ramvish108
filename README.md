@@ -42,14 +42,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramvish108&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000)
 
 ---
-
 ### 🔥 Streak Signal
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ramvish108&theme=dark&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Ramvish108&theme=dark&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
 
-
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ramvish108&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://media.giphy.com/media/l41K3oU5FBB5F8Ekc/giphy.gif" width="200" />
 
 ### 🐍 Snake AI Bot
 ![Snake animation](https://github.com/Ramvish108/Ramvish108/blob/output/github-contribution-grid-snake.svg)
