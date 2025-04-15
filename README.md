@@ -42,10 +42,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramvish108&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000)
 
 ---
-### 🔥 Streak Signal
-<img src="https://streak-stats.demolab.com?user=Ramvish108&theme=dark&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
 
-<img src="https://media.giphy.com/media/l41K3oU5FBB5F8Ekc/giphy.gif" width="200" />
+### 🔥 Streak Signal
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ramvish108&theme=dark&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Coder GIF" width="600" />
+</p>
+
 
 ### 🐍 Snake AI Bot
 ![Snake animation](https://github.com/Ramvish108/Ramvish108/blob/output/github-contribution-grid-snake.svg)
