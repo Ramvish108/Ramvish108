@@ -43,22 +43,15 @@
 
 ---
 
-### 🔥 Streak Signal
+### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ramvish108&theme=dark&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Coder GIF" width="600" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Ramvish108&theme=dark&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
 
 
 ### 🐍 Snake AI Bot
 ![Snake animation](https://github.com/Ramvish108/Ramvish108/blob/output/github-contribution-grid-snake.svg)
 
 ---
-<img src="https://activity-graph.herokuapp.com/graph?username=Ramvish108&theme=redical" /
 
 
 ### 🕶️ Contact The Coder
