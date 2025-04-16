@@ -58,13 +58,8 @@
 ![Snake animation](https://github.com/Ramvish108/Ramvish108/blob/output/github-contribution-grid-snake.svg)
 
 ---
-<img src="https://activity-graph.herokuapp.com/graph?username=Ramvish108&theme=redical" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Ramvish108&theme=redical" /
 
-
-### 🤖 AI Pulse
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
-
----
 
 ### 🕶️ Contact The Coder
 [![Email](https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramvish108@gmail.com)
