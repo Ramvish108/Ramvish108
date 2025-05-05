@@ -32,7 +32,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-990000?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DC143C?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FF0000?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -40,7 +40,7 @@
 ![Ramvish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramvish108&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramvish108&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramvish108&layout=compact&theme=dark&title_color=777BB4&text_color=FFFFFF&bg_color=1A2526)
 
 ---
 
