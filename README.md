@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **a Django-based Online Voting System**
 - 🌱 I’m exploring **machine learning with Scikit-learn**, **IoT projects using Arduino**, and **desktop applications in Java like Ludo Game and Student Management System**
-- 💬 Ask me about **Java, C, C++, MySQL, Arduino circuits, or Python ML tools**
+- 💬 Ask me about **Java, C, C++, MySQL, PHP,Arduino circuits, or Python ML tools**
 - 📫 Reach me at: **ramvish108@gmail.com**
 - ⚡ Fun fact: I can debug both **code and hardware circuits** at the same time 🤓
 
@@ -32,6 +32,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-990000?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DC143C?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
