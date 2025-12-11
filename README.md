@@ -25,6 +25,21 @@
 
 ### 📌 Featured Projects  
 
+#### 🧠 **AI Voice Assistant (Python + HTML/CSS/JS)**  
+A conversational AI Assistant capable of performing tasks like:  
+- 🎤 Voice input  
+- 🗣️ Speech output  
+- 🌐 Web search  
+- 📂 File handling  
+- 🧩 Smart commands (YouTube, Wikipedia, System commands, etc.)
+
+🔗 **Live Demo:** **  
+Example:  
+https://ramvish108.github.io/AI-Voice-assistant/
+
+
+---
+
 #### 🛒 **E-Commerce Website (React + Django + MySQL)**  
 A full-stack e-commerce system with product pages, cart, authentication, and backend API integration.
 
@@ -59,10 +74,11 @@ A beginner-friendly website explaining stock market concepts in simple language.
 ---
 
 ### 🕶️ Connect With Me  
-[![Email](https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramvish108@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-darkred?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramvish108@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darkred?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c_for_coding_001?igsh=NXk1cGNoMW9mcm95)
 
 ---
 
 <h4 align="center">💻🔥 Coding. Creating. Innovating. — <strong>Ram Vishwakarma</strong></h4>
+
