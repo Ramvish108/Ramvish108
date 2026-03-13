@@ -188,6 +188,41 @@ Finance education made simple:
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🪑 Premium Business Landing Page
+**Stack:** HTML · CSS · JavaScript
+
+A production-grade, fully-featured business landing page:
+- 🌐 Bilingual toggle — English & Hindi (every word switches)
+- 🎠 Auto-sliding hero banner with 3 slides & dot navigation
+- ⚡ Skeleton loading cards for better perceived performance
+- 🖼️ Filterable project gallery with full-screen lightbox
+- 🔐 Secure admin panel — login protected with session timeout
+- 📤 Drag & drop image upload with bilingual caption support
+- 📊 Animated scroll-triggered counter stats
+- 📱 Fully mobile responsive with hamburger menu
+- 💬 Enquiry form with real-time validation
+
+🔗 **[Live Demo →](https://ramvish108.github.io/LandingPage/)**
+
+</td>
+<td width="50%">
+
+### 🔧 More Projects Coming Soon...
+**Stack:** React · Django · AI/ML
+
+Always building something new:
+- 🚀 Pushing code almost every week
+- 🤖 Next up: AI-integrated web apps
+- 🌐 Full-stack projects with real-world use cases
+- ⭐ Star & follow to stay updated!
+
+[![View All Repos](https://img.shields.io/badge/View_All_Repos-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramvish108?tab=repositories)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -252,7 +287,7 @@ Finance education made simple:
 
 ```javascript
 const ram = {
-  currentlyBuilding : ["E-Commerce Platform", "CNN AI Project"],
+  currentlyBuilding : ["E-Commerce Platform", "CNN AI Project", "Premium Landing Page"],
   currentlyLearning : ["Deep Learning", "Computer Vision", "Advanced Django"],
   lookingToCollabOn : ["AI/ML Projects", "Full Stack Apps", "Open Source"],
   funFact           : "I vibe-code at 2AM and ship features by morning ☕",
