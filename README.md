@@ -8,9 +8,22 @@
 
 <br><br>
 
+<a href="https://github.com/Ramvish108">
 <img src="https://komarev.com/ghpvc/?username=Ramvish108&style=for-the-badge&color=ff0000&label=VISITORS"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/Ramvish108?style=for-the-badge&color=111111&labelColor=050505&logo=github&label=FOLLOWERS"/>
+<a href="https://github.com/Ramvish108?tab=followers">
+<img src="https://img.shields.io/github/followers/Ramvish108?style=for-the-badge&color=111111&labelColor=050505&logo=github"/>
+</a>
+
+<a href="https://github.com/Ramvish108">
+<img src="https://img.shields.io/github/stars/Ramvish108?style=for-the-badge&color=ff1a1a&labelColor=050505&logo=github"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-FF2222?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/LOCATION-BHOPAL%2C%20INDIA-111111?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
@@ -31,8 +44,8 @@
 │  🎓 MCA Student                                              │
 │  💻 Full Stack Developer                                     │
 │  🤖 AI/ML Explorer                                           │
-│  🏪 Building SaaS products                                   │
-│  🔧 IoT / Hardware enthusiast                                │
+│  🏪 SaaS Builder                                             │
+│  🔧 IoT / Hardware Enthusiast                                │
 │  📍 Bhopal, India                                            │
 │                                                             │
 │  I like taking an idea, turning it into a prototype,         │
@@ -41,13 +54,11 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<br>
-
 <div align="center">
 
-### `I don't build everything perfectly.`
+### I don't build everything perfectly.
 
-### `I build, learn, improve, and build again. ⚡`
+### I build, learn, improve, and build again. ⚡
 
 </div>
 
@@ -143,7 +154,7 @@ Deployment
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🏪 RV STORE
 
@@ -157,19 +168,19 @@ A business management platform I'm building around the everyday workflow of smal
 
 ### Exploring
 
-* Billing
-* Inventory
-* Customer management
-* Credit tracking
-* Staff accounts
-* Reports
-* SaaS architecture
+* 🧾 Billing
+* 📦 Inventory
+* 👥 Customer management
+* 💰 Credit tracking
+* 👨‍💼 Staff accounts
+* 📊 Reports
+* ☁️ SaaS architecture
 
 `React` `Django` `MySQL`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 💬 WHATSAPP AUTOMATION
 
@@ -199,7 +210,7 @@ A desktop experiment created from a real problem: extracting customer phone numb
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧠 SKIN AI
 
@@ -227,7 +238,7 @@ Prediction
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎙️ AI VOICE ASSISTANT
 
@@ -238,17 +249,58 @@ TYPE     : WEB AI
 
 A browser-based voice assistant exploring speech recognition, text-to-speech and web integrations.
 
+<br>
+
 <a href="https://ramvish108.github.io/AI-Voice-assistant/">
 
 <img src="https://img.shields.io/badge/▶_TRY_PROJECT-FF2222?style=for-the-badge&labelColor=090909"/>
 
 </a>
 
+<br><br>
+
 `JavaScript` `Web APIs` `Speech`
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📘 LEARNING EDUCATION HUB
+
+A deployed educational website created for an educational institute.
+
+<a href="https://learningeducationhub.in/">
+
+<img src="https://img.shields.io/badge/🌐_VISIT_WEBSITE-FF2222?style=for-the-badge&labelColor=090909"/>
+
+</a>
+
+<br><br>
+
+`HTML` `CSS` `JavaScript` `Web Development`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔧 IOT EXPERIMENTS
+
+```text
+🤖 Line Following Robot
+👁️ Object Following Robot
+🗑️ Smart Dustbin
+```
+
+Small hardware projects using sensors, motors, Arduino and basic control logic.
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
@@ -281,17 +333,17 @@ A browser-based voice assistant exploring speech recognition, text-to-speech and
                          │
                          ▼
                  ┌───────────────┐
-                 │    BREAK      │
+                 │     BREAK     │
                  └───────┬───────┘
                          │
                          ▼
                  ┌───────────────┐
-                 │    DEBUG      │
+                 │     DEBUG     │
                  └───────┬───────┘
                          │
                          ▼
                  ┌───────────────┐
-                 │     SHIP 🚀   │
+                 │   SHIP 🚀     │
                  └───────────────┘
 ```
 
@@ -299,13 +351,15 @@ A browser-based voice assistant exploring speech recognition, text-to-speech and
 
 ---
 
-# 🌌 3D CONTRIBUTION CITY
+# 🌌 MY 3D CONTRIBUTION WORLD
 
 <div align="center">
 
-### My GitHub activity — rendered in 3D
-
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<br>
+
+`GitHub activity rendered in 3D`
 
 </div>
 
@@ -333,6 +387,10 @@ A browser-based voice assistant exploring speech recognition, text-to-speech and
 
 <img src="https://streak-stats.demolab.com?user=Ramvish108&hide_border=true&background=050505&ring=ff2222&fire=ff3333&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ff2222&sideNums=ffffff&dates=777777"/>
 
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ramvish108&bg_color=050505&color=ffffff&line=ff2222&point=ff5555&area=true&hide_border=true"/>
+
 </div>
 
 ---
@@ -344,13 +402,13 @@ A browser-based voice assistant exploring speech recognition, text-to-speech and
 ```text
 ┌───────────────────────────────────────────────────────────┐
 │                                                           │
-│  LEARNING                                                 │
+│                     CURRENTLY LEARNING                    │
 │                                                           │
-│  ███████████████░░░░░  Full Stack Development             │
-│  ████████████░░░░░░░░  AI / ML                            │
-│  ██████████░░░░░░░░░░  System Design                      │
-│  █████████░░░░░░░░░░░  Cloud / Deployment                 │
-│  ████████░░░░░░░░░░░░  DevOps                             │
+│  Full Stack Development    ███████████████░░░░░           │
+│  AI / ML                   ████████████░░░░░░░            │
+│  System Design             ██████████░░░░░░░░             │
+│  Cloud / Deployment        █████████░░░░░░░░░             │
+│  DevOps                    ████████░░░░░░░░░░             │
 │                                                           │
 └───────────────────────────────────────────────────────────┘
 ```
@@ -370,7 +428,7 @@ A browser-based voice assistant exploring speech recognition, text-to-speech and
 
 🤖
 
-**Line Following Robot**
+### Line Following Robot
 
 IR Sensors + Motors
 
@@ -380,7 +438,7 @@ IR Sensors + Motors
 
 👁️
 
-**Object Following Robot**
+### Object Following Robot
 
 Ultrasonic + Servo
 
@@ -390,7 +448,7 @@ Ultrasonic + Servo
 
 🗑️
 
-**Smart Dustbin**
+### Smart Dustbin
 
 Sensor + Servo
 
@@ -401,22 +459,19 @@ Sensor + Servo
 
 </div>
 
-Sometimes I like connecting software to the physical world.
-
 ---
 
-# 💭 MY DEVELOPMENT PHILOSOPHY
+# 💭 DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-
-       "First understand the problem.
-
-        Then build the solution."
-
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       "First understand the problem.             ║
+║        Then build the solution."                 ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
 I don't want GitHub to look like a list of technologies.
@@ -432,21 +487,15 @@ I want it to show **what I tried, what I built, what I learned, and what I'm wor
 <div align="center">
 
 <a href="mailto:rv7029919@gmail.com">
-
 <img src="https://img.shields.io/badge/EMAIL-FF2222?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/Ramvish108">
-
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <a href="https://www.instagram.com/c_for_coding_001">
-
 <img src="https://img.shields.io/badge/INSTAGRAM-B22222?style=for-the-badge&logo=instagram&logoColor=white"/>
-
 </a>
 
 <br><br>
