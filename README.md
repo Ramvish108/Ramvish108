@@ -1,33 +1,52 @@
-<!-- ============================================================ -->
-<!-- RAM VISHWAKARMA — RECRUITER'S DASHBOARD PROFILE               -->
-<!-- Design: "First Impression → Evidence → Verdict"               -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0000,100:ff0000&height=220&section=header&text=RAM%20VISHWAKARMA&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20SaaS%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
+<!-- ANIMATED HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF2222&center=true&vCenter=true&width=800&lines=🎯+I+build+products%2C+not+just+projects;🏪+RV+Store+%E2%80%94+SaaS+for+Small+Businesses;💬+WhatsApp+Bulk+Sender+with+Image+OCR;⚡+React+%7C+Django+%7C+MySQL+%7C+Python;🤖+AI%2FML+Explorer+%7C+CNN+%7C+IoT+Maker" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:170000,100:ff1a1a&height=230&section=header&text=RAM%20VISHWAKARMA&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Always%20Learning&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<br/>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ramvish108&color=ff0000&style=for-the-badge&label=RECRUITER+VISITS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF3333&center=true&vCenter=true&width=850&lines=Building+things+that+solve+real+problems+%F0%9F%9A%80;Full+Stack+Developer+%7C+MCA+Student+%F0%9F%92%BB;Turning+ideas+into+working+products+%F0%9F%94%A8;Exploring+AI%2FML+one+project+at+a+time+%F0%9F%A4%96;Currently+building+RV+Store+%F0%9F%8F%AA;Code+%7C+Build+%7C+Break+%7C+Learn+%7C+Repeat+%E2%99%BB%EF%B8%8F"/>
 
-[![MCA](https://img.shields.io/badge/🎓_MCA-Pursuing-FF0000?style=for-the-badge&labelColor=0a0a0a)](#)
-[![Open to Work](https://img.shields.io/badge/💼_STATUS-Open_to_Opportunities-FF2222?style=for-the-badge&labelColor=0a0a0a)](#)
-[![Location](https://img.shields.io/badge/📍_Bhopal-India-B22222?style=for-the-badge&labelColor=0a0a0a)](#)
+<br><br>
+
+<a href="https://github.com/Ramvish108">
+<img src="https://komarev.com/ghpvc/?username=Ramvish108&style=for-the-badge&color=red&label=PROFILE+VIEWS"/>
+</a>
+
+<a href="https://github.com/Ramvish108?tab=followers">
+<img src="https://img.shields.io/github/followers/Ramvish108?style=for-the-badge&color=161616&labelColor=000000&logo=github"/>
+</a>
+
+<a href="https://github.com/Ramvish108">
+<img src="https://img.shields.io/github/stars/Ramvish108?style=for-the-badge&color=ff1a1a&labelColor=000000&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 1: THE 10-SECOND PITCH                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# 👋 Hey, I'm Ram
+
+I'm a developer from **Bhopal, India**, currently pursuing my **MCA** and spending most of my time turning random ideas into working software.
+
+I like building things that are actually useful — especially tools for **small businesses, automation, web applications and AI-powered experiments**.
+
+Sometimes the project works.
+
+Sometimes the project crashes at 2 AM.
+
+Both are part of the process. 😄
+
+```text
+Idea → Build → Break → Debug → Learn → Improve → Ship 🚀
+```
+
+---
 
 <div align="center">
 
-## ⏱️ The 10-Second Pitch
+## 🧑‍💻 A Little About Me
 
 </div>
 
@@ -35,28 +54,41 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 What I Do
-I design and ship **full-stack SaaS products** that solve real problems for small businesses. Currently building **RV Store** — a billing, inventory, and customer management platform for retail shops.
+### 🚀 What I'm Building
+
+🏪 **RV Store**
+
+A business management platform designed around the everyday needs of small shops.
+
+Currently exploring:
+
+* Billing
+* Inventory
+* Customer management
+* Credit tracking
+* Reports
+* Multi-user access
+* SaaS architecture
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🧠 How I Think
-I don't wait for perfect requirements. I identify a problem, validate it with real users, build an MVP, and iterate. My WhatsApp Bulk Sender started because a shopkeeper told me he spent 3 hours messaging customers manually.
+### 🧠 What I'm Exploring
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+🤖 AI / ML
 
-### ⚡ Tech I Actually Use
-`React` · `Django` · `MySQL` · `Python` · `JavaScript` · `Tailwind` · `REST APIs` · `OpenCV` · `OCR` · `Arduino`
+🌐 Full Stack Development
 
-</td>
-<td width="50%" valign="top">
+⚙️ Backend Architecture
 
-### 📈 What I'm Learning
-Deep Learning architectures (CNN), scalable system design, and how to turn side projects into sustainable products.
+🧩 Automation
+
+📦 SaaS Products
+
+🔌 IoT & Hardware
+
+☁️ Deployment & Cloud
 
 </td>
 </tr>
@@ -64,193 +96,384 @@ Deep Learning architectures (CNN), scalable system design, and how to turn side 
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 2: RECRUITER'S EVIDENCE BOARD                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# 🛠️ Tech I Work With
 
 <div align="center">
 
-## 📋 Recruiter's Evidence Board
+### Languages
 
-*"Show, don't tell — here's what I've actually built."*
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql" />
+
+<br><br>
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django,nodejs,tailwind" />
+
+<br><br>
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,docker" />
+
+<br><br>
+
+### AI / Computer Vision / Hardware
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino" />
 
 </div>
 
-### 🏪 RV Store — SaaS for Small Shops & Businesses
-> **The Problem:** Small shop owners track inventory in notebooks and send bills via WhatsApp manually.
-> **The Solution:** A cloud-based platform with billing, inventory, customer management, and sales analytics.
-> **The Stack:** React (frontend) · Django (backend) · MySQL · REST API · Subscription-ready architecture
-> **Status:** 🟢 Active Development — onboarding early users
-
-`Product Thinking` `SaaS Architecture` `Multi-user Systems` `Billing Logic`
+> I'm still learning many of these technologies. I prefer showing what I've built rather than calling myself an expert.
 
 ---
 
-### 💬 WhatsApp Bulk Message Sender + Image Number Extractor
-> **The Problem:** A local shopkeeper was manually typing 200+ customer numbers from WhatsApp screenshots.
-> **The Solution:** A desktop app that extracts phone numbers from images using OCR and sends bulk personalized messages.
-> **The Stack:** Python · Selenium · OpenCV · Tesseract OCR · Tkinter
-> **Impact:** Turns a 3-hour task into 5 minutes.
-
-`OCR` `Automation` `Computer Vision` `Desktop UI` `Real User Validation`
-
----
-
-### 📘 Learning Education Hub — Live Educational Platform
-> **The Problem:** A Bhopal-based institute needed a digital presence to reach students learning C, C++, Python, and Java.
-> **The Solution:** A fully deployed educational platform with course information, contact integration, and mobile-responsive design.
-> **🔗 Live:** **https://learningeducationhub.in/**
-
-`Production Deployment` `Web Presence` `Education Tech` `Client Work`
-
----
-
-### 🛒 E-Commerce Platform (Full Stack)
-> **The Solution:** End-to-end shopping experience with authentication, catalog, cart, checkout, and a REST API backend.
-
-`Authentication` `REST API` `Database Design` `Responsive UI`
-
----
-
-### 🤖 AI Voice Assistant
-> **The Solution:** Browser-based voice assistant with speech-to-text, text-to-speech, and web search integration.
-
-`Speech APIs` `JavaScript` `Web Integration`
-
-🔗 https://ramvish108.github.io/AI-Voice-assistant/
-
----
-
-### 🧠 CNN Image Classification (Deep Learning)
-> **The Solution:** Custom CNN architecture for image classification with a full training pipeline.
-
-`TensorFlow` `CNN Architecture` `Model Training` `Dataset Processing`
-
-🚧 In Development
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 3: SKILLS MATRIX                                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# 🚀 Things I've Built
 
 <div align="center">
 
-## 🧩 Skills Matrix
+<table>
+<tr>
 
-*"What I can do, and where I'm headed."*
+<td width="50%" valign="top">
 
-</div>
+## 🏪 RV Store
 
-| **Category** | **Proficient** | **Working Knowledge** | **Learning** |
-|---|---|---|---|
-| **Languages** | Python, JavaScript, Java, C, C++ | SQL | TypeScript |
-| **Frontend** | React, HTML, CSS, Tailwind | — | Next.js |
-| **Backend** | Django, Node.js | REST APIs | FastAPI |
-| **Database** | MySQL | — | PostgreSQL, MongoDB |
-| **AI / ML** | OpenCV, OCR (Tesseract) | TensorFlow | CNN, Deep Learning |
-| **Tools** | Git, GitHub, VS Code, Arduino | Selenium | Docker, AWS |
-| **Soft Skills** | Problem Solving, User Empathy | Technical Writing | System Design |
+A business management platform focused on small shops.
 
----
+**Exploring:**
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 4: THE VERDICT                                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+`React` `Django` `MySQL` `REST API`
 
-<div align="center">
+**Features I'm working toward:**
 
-## ✅ The Verdict
+* 🧾 Billing
+* 📦 Inventory
+* 👥 Customers
+* 💰 Credit management
+* 📊 Sales reports
+* 👨‍💼 Staff accounts
 
-</div>
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║ RECRUITER'S NOTE:                                                ║
-║                                                                  ║
-║ "This candidate doesn't just complete tutorials.                 ║
-║ They identify real problems, build solutions,                    ║
-║ and ship them. The RV Store and WhatsApp Sender                  ║
-║ demonstrate product thinking — not just coding skill.            ║
-║                                                                  ║
-║ Recommendation: PROCEED TO INTERVIEW."                           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+**Status:** 🟢 Building
 
+</td>
 
+<td width="50%" valign="top">
 
-### 🎯 What I'm Looking For
-- **Full Stack Developer** roles (React + Django / Node)
-- **Product-focused startups** where I can build end-to-end
-- **SaaS companies** solving real business problems
-- **Open to:** Full-time · Internship · Freelance
+## 💬 WhatsApp Automation
 
----
+A desktop automation project created around a real-world problem.
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 5: GITHUB STATS                                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+It uses image processing and OCR to extract phone numbers from screenshots and automate messaging workflows.
 
-<div align="center">
+**Built with:**
 
-## 📊 GitHub Activity
+`Python` `OpenCV` `Tesseract` `Selenium` `Tkinter`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramvish108&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0a0000&border_color=FF0000&hide=stars" />
+**Status:** 🟢 Working Project
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramvish108&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=0a0000&border_color=FF0000" />
+</td>
 
-<br/><br/>
+</tr>
 
-<img src="https://streak-stats.demolab.com?user=Ramvish108&theme=dark&background=0a0000&border=FF0000&ring=FF0000&fire=FF4444" />
+<tr>
 
-<br/><br/>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramvish108&bg_color=0a0000&color=FF0000&line=FF2222&point=ffffff&area=true" />
+## 🛒 E-Commerce Platform
 
-</div>
+A full-stack shopping application with:
 
----
+* Authentication
+* Product catalogue
+* Cart
+* Wishlist
+* Checkout
+* REST API
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SECTION 6: BEYOND CODE                                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+**Tech:**
 
-<div align="center">
+`React` `Django` `MySQL`
 
-## 🛠️ Beyond the Screen — IoT & Hardware
+</td>
 
-</div>
-🤖 Line Following Robot IR sensors + motor control
-👁️ Object Following Robot Ultrasonic + servo tracking
-🗑️ Automatic Smart Dustbin Motion sensor + servo lid
+<td width="50%" valign="top">
 
+## 🤖 AI Voice Assistant
 
----
+A browser-based voice assistant experiment using browser APIs and web integrations.
 
-<div align="center">
+**Explored:**
 
-## 💡 Philosophy
-First solve the problem.
-Then write the code.
+`JavaScript` `Speech Recognition` `Text-to-Speech` `Web APIs`
 
-— Not the other way around.
+<a href="https://ramvish108.github.io/AI-Voice-assistant/">
+🔗 Try the project
+</a>
 
+</td>
 
----
+</tr>
 
-## 🤝 Let's Talk
+<tr>
 
-[![Email](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rv7029919@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-B22222?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c_for_coding_001)
-[![GitHub](https://img.shields.io/badge/GitHub-FF2222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramvish108)
+<td width="50%" valign="top">
+
+## 🧠 Skin Disease Detection
+
+An experimental computer vision project exploring CNN-based image classification.
+
+**Explored:**
+
+`Python` `TensorFlow` `CNN` `Image Processing`
+
+The project helped me understand how datasets, preprocessing, training and prediction fit together.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔧 IoT Experiments
+
+I've also played around with Arduino and basic electronics.
+
+🤖 Line Following Robot
+
+👁️ Object Following Robot
+
+🗑️ Automatic Smart Dustbin
+
+Small projects, but they taught me something important:
+
+**Software becomes much more interesting when it can interact with the physical world.**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:1a0000,100:0a0a0a&height=110&section=footer&text=💻+Coding.+Creating.+Innovating.&fontSize=18&fontColor=ffffff&fontAlignY=65" />
+# 🧪 Currently Experimenting With
 
 <div align="center">
 
-⭐ From [Ram Vishwakarma](https://github.com/Ramvish108)
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│                 CURRENT LAB 🧪                       │
+│                                                      │
+│   🤖 AI / ML              █████████░░   Learning     │
+│   🌐 Full Stack           ██████████░   Building     │
+│   🏪 SaaS                 ████████░░░   Building     │
+│   ☁️ Cloud / Deployment   ██████░░░░░   Exploring    │
+│   🧩 System Design       █████░░░░░░   Learning     │
+│   🔌 IoT                 █████░░░░░░   Experimenting │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# 📊 My GitHub Corner
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ramvish108&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff3333&text_color=ffffff&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramvish108&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ramvish108&hide_border=true&background=0D0D0D&ring=FF2222&fire=FF4444&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FF3333&sideNums=FFFFFF&dates=888888"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ramvish108&bg_color=0d0d0d&color=ffffff&line=ff2222&point=ff5555&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧊 3D Contribution View
+
+<div align="center">
+
+<a href="https://github.com/Ramvish108">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</a>
+
+<br>
+
+### 🐍 My contributions occasionally come alive.
+
+</div>
+
+---
+
+# 💡 How I Like to Build
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 01
+
+💭
+
+**Find a Problem**
+
+</td>
+
+<td align="center">
+
+### 02
+
+🔎
+
+**Understand It**
+
+</td>
+
+<td align="center">
+
+### 03
+
+🔨
+
+**Build Something**
+
+</td>
+
+<td align="center">
+
+### 04
+
+🐛
+
+**Break It**
+
+</td>
+
+<td align="center">
+
+### 05
+
+🧠
+
+**Learn From It**
+
+</td>
+
+<td align="center">
+
+### 06
+
+🚀
+
+**Ship It**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+I don't want to build projects just to fill a GitHub profile.
+
+I want to understand **why something should exist, who it helps, and how it can actually be used.**
+
+---
+
+# 🌱 What I'm Learning
+
+Currently working on improving my understanding of:
+
+```text
+Frontend Development
+        ↓
+Backend Development
+        ↓
+Databases & APIs
+        ↓
+System Design
+        ↓
+Cloud & Deployment
+        ↓
+AI / ML
+        ↓
+Building Better Products
+```
+
+I'm still early in the journey, so you'll probably find experiments, unfinished projects and things that don't work perfectly here.
+
+That's intentional.
+
+**GitHub is my learning log as much as it is my portfolio.**
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can:
+
+* Build real software
+* Work with experienced developers
+* Learn through actual projects
+* Contribute to full-stack applications
+* Explore AI/ML applications
+* Work on products used by real people
+
+Open to:
+
+`Full-time` · `Internships` · `Freelance` · `Collaborations`
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:rv7029919@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF2222?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ramvish108">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/c_for_coding_001">
+<img src="https://img.shields.io/badge/Instagram-B22222?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 💬 If you're building something interesting, say hello.
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ One Last Thing
+
+### I don't know everything.
+
+### I'm just curious enough to keep building until I figure it out.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2222,50:170000,100:050505&height=120&section=footer&text=Build.%20Learn.%20Repeat.%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=65"/>
 
 </div>
