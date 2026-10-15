@@ -38,17 +38,17 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  RAM VISHWAKARMA                                             │
+│  RAM VISHWAKARMA                                            │
 │  ─────────────────────────────────────────────────────────  │
 │                                                             │
-│  🎓 MCA Student                                              │
-│  💻 Full Stack Developer                                     │
-│  🤖 AI/ML Explorer                                           │
-│  🏪 SaaS Builder                                             │
-│  🔧 IoT / Hardware Enthusiast                                │
-│  📍 Bhopal, India                                            │
+│  🎓 MCA Student                                             │
+│  💻 Full Stack Developer                                    │
+│  🤖 AI/ML Explorer                                          │
+│  🏪 SaaS Builder                                            │
+│  🔧 IoT / Hardware Enthusiast                               │
+│  📍 Bhopal, India                                           │
 │                                                             │
-│  I like taking an idea, turning it into a prototype,         │
+│  I like taking an idea, turning it into a prototype,        │
 │  breaking it, fixing it, and eventually making it useful.   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
